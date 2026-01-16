@@ -1,6 +1,5 @@
 # Kosamphi ITA 2024
-**Integrity and Transparency Assessment System**
-**Office of the District Public Health, Kosamphinakhorn**
+**Integrity and Transparency Assessment System** **Office of the District Public Health, Kosamphinakhorn**
 
 ---
 
@@ -30,7 +29,7 @@
 | :--- | :--- | :--- |
 | `/core` | Application Logic | Core functionalities and system processing |
 | `/config` | System Settings | Database connections and global configurations |
-| `/assets` | Static Resources | CSS style sheets, JavaScript files, and images |
+| `/assets` | Static Resources | CSS stylesheets, JavaScript files, and images |
 | `/uploads` | Data Storage | Document repositories and evidence storage |
 
 ---
@@ -48,6 +47,7 @@
 ### Developer Information
 | Name | Contact | Portfolio |
 | :--- | :--- | :--- |
-| **Ratchanon Noknoy** | [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) | [ratchanonnoknoy.vercel.app](https://ratchanonnoknoy.vercel.app/) |
+| **Ratchanon Noknoy** | [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) | [ratchanon-portfolio.vercel.app](https://ratchanon-portfolio.vercel.app/) |
 
 ---
+*Under MIT License | Copyright (c) 2025 - 2026 Ratchanon Noknoy*
