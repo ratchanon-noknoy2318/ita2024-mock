@@ -1,5 +1,6 @@
 # Kosamphi ITA 2024
-**Integrity and Transparency Assessment System** **Office of the District Public Health, Kosamphinakhorn**
+**Integrity and Transparency Assessment System**
+**Office of the District Public Health, Kosamphinakhorn**
 
 ---
 
@@ -16,8 +17,8 @@
 ### Technical Specifications
 | Layer | Technology | Specification |
 | :--- | :--- | :--- |
-| **Backend Engine** | PHP 8.2 | Core processing and business logic |
-| **Database Management** | MySQL 8.0 | Relational data storage (InnoDB Engine) |
+| **Backend Engine** | PHP | Core processing and business logic |
+| **Database Management** | MySQL | Relational data storage (InnoDB Engine) |
 | **Frontend Stack** | HTML5, CSS3, JS | Responsive UI and Vanilla ES6+ |
 | **Security Protocol** | PDO / BCRYPT | SQL Injection protection and secure password hashing |
 | **Server Infrastructure** | Apache | Production environment on MOPH Web Server |
@@ -50,4 +51,4 @@
 | **Ratchanon Noknoy** | [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) | [ratchanon-portfolio.vercel.app](https://ratchanon-portfolio.vercel.app/) |
 
 ---
-*Under MIT License | Copyright (c) 2025 - 2026 Ratchanon Noknoy*
+*Under MIT License | Copyright (c) 2024 Ratchanon Noknoy*
