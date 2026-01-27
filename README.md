@@ -1,54 +1,51 @@
 # Kosamphi ITA 2024 (Internship)
-**Integrity and Transparency Assessment System**
-**Office of the District Public Health, Kosamphinakhorn**
 
----
+**Integrity and Transparency Assessment (ITA) System**  
+Office of the District Public Health, Kosamphinakhorn
 
-### Project Identification
-| Category | Detail |
+| Item | Detail |
 | :--- | :--- |
-| **Project Name** | Kosamphi ITA 2024 |
-| **Organization** | Office of the District Public Health, Kosamphinakhorn |
-| **System Purpose** | Ethics, Integrity, and Transparency Assessment |
-| **Production URL** | [https://kosamphi.moph.go.th/ita/ita2024/](https://kosamphi.moph.go.th/ita/ita2024/) |
+| Project | Kosamphi ITA 2024 |
+| Type | Internship Project |
+| Organization | Office of the District Public Health, Kosamphinakhorn |
+| Production URL | https://kosamphi.moph.go.th/ita/ita2024/ |
 
 ---
 
-### Technical Specifications
-| Layer | Technology | Specification |
-| :--- | :--- | :--- |
-| **Backend Engine** | PHP | Core processing and business logic |
-| **Database Management** | MySQL | Relational data storage (InnoDB Engine) |
-| **Frontend Stack** | HTML5, CSS3, JS | Responsive UI and Vanilla ES6+ |
-| **Security Protocol** | PDO / BCRYPT | SQL Injection protection and secure password hashing |
-| **Server Infrastructure** | Apache | Production environment on MOPH Web Server |
+## Requirement Sources
+| Stakeholder | Contribution |
+| :--- | :--- |
+| Insurance Supervisor | Insurance compliance and reporting requirements |
+| Head Nurse | Clinical workflow and documentation requirements |
 
 ---
 
-### System Architecture (Directory Structure)
-| Path | Component | Responsibility |
-| :--- | :--- | :--- |
-| `/core` | Application Logic | Core functionalities and system processing |
-| `/config` | System Settings | Database connections and global configurations |
-| `/assets` | Static Resources | CSS stylesheets, JavaScript files, and images |
-| `/uploads` | Data Storage | Document repositories and evidence storage |
+## Technical Stack
+| Layer | Technology |
+| :--- | :--- |
+| Backend | PHP |
+| Database | MySQL (InnoDB) |
+| Frontend | HTML5, CSS3, JavaScript |
+| Security | PDO, BCRYPT |
+| Server | Apache (MOPH) |
 
 ---
 
-### Core Functionalities
+## Key Features
 | Module | Description |
 | :--- | :--- |
-| **Assessment Tracking** | Monitoring and managing transparency evaluation criteria |
-| **Document Management** | Systematic storage and retrieval of evidence documents |
-| **Public Disclosure** | Structured information display for public transparency |
-| **Data Integrity** | Secure administrative management and record-keeping |
+| Assessment Tracking | ITA evaluation management |
+| Document Management | Evidence storage and retrieval |
+| Public Disclosure | Transparent information display |
+| Data Integrity | Secure access and records |
 
 ---
 
-### Developer Information
-| Name | Contact | Portfolio |
-| :--- | :--- | :--- |
-| **Ratchanon Noknoy** | [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) | [ratchanon-portfolio.vercel.app](https://ratchanon-portfolio.vercel.app/) |
+## Developer
+| Name | Portfolio |
+| :--- | :--- |
+| Ratchanon Noknoy | https://ratchanon-portfolio.vercel.app/ |
 
 ---
-*Under MIT License | Copyright (c) 2024 Ratchanon Noknoy*
+
+MIT License © 2024 Ratchanon Noknoy
