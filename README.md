@@ -1,4 +1,4 @@
-# Kosamphi ITA 2024
+# Kosamphi ITA 2024 (Internship)
 **Integrity and Transparency Assessment System**
 **Office of the District Public Health, Kosamphinakhorn**
 
